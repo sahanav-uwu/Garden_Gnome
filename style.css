@@ -1,0 +1,38 @@
+body{
+    text-align:center;
+}
+
+
+.navbar-inverse{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+#brand{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.navbar-inverse a:hover {
+    color: #0ca970;
+    text-decoration: underline;
+  }
+
+a{
+    color: floralwhite;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    padding: 20px;
+}
+
